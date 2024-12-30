@@ -1,0 +1,31 @@
+h1{
+    color: rgb(226, 43, 195);
+    text-align: center;
+    background-color: blueviolet;
+    font-style: italic;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 19px;
+}
+table,th,td{
+    border: 2px rgb(22, 1, 1)solid;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+#head
+{
+    color: aquamarine;
+
+}
+.part1{
+    background-color: black;
+    color: brown;
+    margin: 40px 70px 90px;
+    padding: 50px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/036/226/872/non_2x/ai-generated-nature-landscapes-background-free-photo.jpg);
+    background-size: cover;
+    background-position: center;
+}
